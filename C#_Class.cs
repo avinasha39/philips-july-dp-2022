@@ -19,6 +19,7 @@ class Checker
 
 // Problems
 // 1. Method doing handling multiple checks breaking SRP 
+// 2. Method is closed for extension and has to be modified in future. 
 
 // Fixes
 // 1. Adding 3 different method to handle 3 responsiblity and retuen boolean
