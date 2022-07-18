@@ -17,4 +17,9 @@ class Checker
     }
 }
 
-// 
+// Problems
+// 1. Method doing handling multiple checks breaking SRP 
+
+// Fixes
+// 1. Adding 3 different method to handle 3 responsiblity and retuen boolean
+// 2. batteryIsOk should call different method, consolidate the result and return
