@@ -4,3 +4,4 @@ Current Design has following issue
   
  We can solve it using Template Method
 
+![image](https://user-images.githubusercontent.com/9116508/179925624-ebf5b97c-17f2-4415-8b04-0e4d47ba1860.png)
