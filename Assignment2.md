@@ -4,4 +4,7 @@ Current Design has following issue
   
  We can solve it using Template Pattern
 
-![image](https://user-images.githubusercontent.com/9116508/179925624-ebf5b97c-17f2-4415-8b04-0e4d47ba1860.png)
+
+![image](https://user-images.githubusercontent.com/9116508/179926719-6d4466c5-2dd4-40f7-8187-42a9eaba1329.png)
+
+
