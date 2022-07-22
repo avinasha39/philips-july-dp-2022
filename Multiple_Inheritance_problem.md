@@ -2,4 +2,4 @@
 
 After using bridge design
 
-![image](https://user-images.githubusercontent.com/9116508/180386215-45aa3470-1ac9-4dde-9654-756fe99b4af0.png)
+![image](https://user-images.githubusercontent.com/9116508/180386703-b3c3fd2f-68f9-45ae-931e-fa19b8ff596b.png)
